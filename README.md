@@ -12,11 +12,11 @@
 Contact me by [email](nileshmedda@gmail.com), [LinkedIn](https://www.linkedin.com/in/ghost0fcode/)
 
 ### 📂 Featured Repos:
-- [`C_program`](https://github.com/nilesh9836-medda/C_program) – All my clean & commented C programs.
+- [`C_codes`](https://github.com/nilesh9836-medda/C_codes) – All my clean & commented C programs.
 
 ## 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost0fCode&layout=compact&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh9836-medda&layout=compact&theme=tokyonight&langs_count=8)
 
 ## ⚙️ GitHub Stats:
-![Ghost0fCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghost0fCode&show_icons=true&theme=tokyonight)
+![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilesh9836-medda&show_icons=true&theme=tokyonight)
 
