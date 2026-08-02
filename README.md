@@ -14,11 +14,13 @@ Front-End Developer | Aspiring Full-Stack Developer
 ### 🌐 Front-end
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-grey?logo=react) 
 
 ### ⚙️ Backend (Learning)
 
-![React](https://img.shields.io/badge/-React-grey?logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-white?logo=Node.js) ![Express.js](https://img.shields.io/badge/-Express.js-red?logo=Express.js)
+![Node.js](https://img.shields.io/badge/-Node.js-white?logo=Node.js) ![Express.js](https://img.shields.io/badge/-Express.js-red?logo=Express.js)
 
 ### 🗄️Databases (Learning)
 
